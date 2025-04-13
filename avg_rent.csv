@@ -110,8 +110,8 @@ San Carlos,CA,"San Francisco-Oakland-Berkeley, CA",3440.6589589117602
 Westport,CT,"Bridgeport-Stamford-Norwalk, CT",3438.184263186218
 Rancho Mission Viejo,CA,"Los Angeles-Long Beach-Anaheim, CA",3413.7833440444947
 Gilroy,CA,"San Jose-Sunnyvale-Santa Clara, CA",3406.1652950984644
-Hillsboro Beach,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",3400.0
 Spicewood,TX,"Austin-Round Rock-Georgetown, TX",3400.0
+Hillsboro Beach,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",3400.0
 Los Alamitos,CA,"Los Angeles-Long Beach-Anaheim, CA",3396.4711869467033
 Dobbs Ferry,NY,"New York-Newark-Jersey City, NY-NJ-PA",3391.8326265363785
 Westwood,MA,"Boston-Cambridge-Newton, MA-NH",3384.015219402971
@@ -124,8 +124,8 @@ Mineola,NY,"New York-Newark-Jersey City, NY-NJ-PA",3352.34848847075
 Watsonville,CA,"Santa Cruz-Watsonville, CA",3348.1495642765103
 Oakley,CA,"San Francisco-Oakland-Berkeley, CA",3347.624321181262
 Redwood City,CA,"San Francisco-Oakland-Berkeley, CA",3318.1785601048914
-Lanham Seabrook,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",3300.0
 Pleasantville,NY,"New York-Newark-Jersey City, NY-NJ-PA",3300.0
+Lanham Seabrook,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",3300.0
 Agoura Hills,CA,"Los Angeles-Long Beach-Anaheim, CA",3299.7452646908523
 Morris Plains,NJ,"New York-Newark-Jersey City, NY-NJ-PA",3298.357802158176
 Port Jefferson,NY,"New York-Newark-Jersey City, NY-NJ-PA",3284.73014171532
@@ -361,8 +361,8 @@ Bedminster,NJ,"New York-Newark-Jersey City, NY-NJ-PA",2654.335964852763
 Irvine,CA,"Los Angeles-Long Beach-Anaheim, CA",2654.0328586693927
 Kennett Square,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2653.191578531838
 Bradley Beach,NJ,"New York-Newark-Jersey City, NY-NJ-PA",2651.859008173225
-Atlantic Highlands,NJ,"New York-Newark-Jersey City, NY-NJ-PA",2650.0
 Berlin,MA,"Worcester, MA-CT",2650.0
+Atlantic Highlands,NJ,"New York-Newark-Jersey City, NY-NJ-PA",2650.0
 Ann Arbor,MI,"Ann Arbor, MI",2649.2239632105734
 Reading,MA,"Boston-Cambridge-Newton, MA-NH",2647.526594982637
 Oxford,OH,"Cincinnati, OH-KY-IN",2646.266078593517
@@ -464,9 +464,9 @@ Leonia,NJ,"New York-Newark-Jersey City, NY-NJ-PA",2502.075751170183
 Celina,TX,"Dallas-Fort Worth-Arlington, TX",2501.27372155212
 Lake Hart,FL,"Orlando-Kissimmee-Sanford, FL",2501.0311919152646
 Cocoa Beach,FL,"Palm Bay-Melbourne-Titusville, FL",2500.3741432161387
-Goshen,NY,"Poughkeepsie-Newburgh-Middletown, NY",2500.0
 Fort Myers Beach,FL,"Cape Coral-Fort Myers, FL",2500.0
 Pingree Grove,IL,"Chicago-Naperville-Elgin, IL-IN-WI",2500.0
+Goshen,NY,"Poughkeepsie-Newburgh-Middletown, NY",2500.0
 Braintree,MA,"Boston-Cambridge-Newton, MA-NH",2499.6241792205037
 Cross Roads,TX,"Dallas-Fort Worth-Arlington, TX",2499.4187748177465
 Westampton Township,NJ,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2499.152335260119
@@ -665,10 +665,10 @@ Manorville,NY,"New York-Newark-Jersey City, NY-NJ-PA",2311.5
 Poulsbo,WA,"Bremerton-Silverdale-Port Orchard, WA",2306.2993684088583
 Melrose,MA,"Boston-Cambridge-Newton, MA-NH",2304.8027594871396
 Madison,MS,"Jackson, MS",2304.3347754298056
-Dickson,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",2300.0
-Woodland Park,NJ,"New York-Newark-Jersey City, NY-NJ-PA",2300.0
-West Richland,WA,"Kennewick-Richland, WA",2300.0
 Gardnerville,NV,"Gardnerville Ranchos, NV",2300.0
+Woodland Park,NJ,"New York-Newark-Jersey City, NY-NJ-PA",2300.0
+Dickson,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",2300.0
+West Richland,WA,"Kennewick-Richland, WA",2300.0
 Woodbridge,NJ,"New York-Newark-Jersey City, NY-NJ-PA",2299.806918377246
 Eatontown,NJ,"New York-Newark-Jersey City, NY-NJ-PA",2299.4845217206976
 Hood River,OR,"Hood River, OR",2297.5
@@ -735,6 +735,7 @@ Fate,TX,"Dallas-Fort Worth-Arlington, TX",2242.3464007315188
 Doral,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",2242.236172761951
 Port Saint Lucie,FL,"Port St. Lucie, FL",2241.314587663052
 Rohnert Park,CA,"Santa Rosa-Petaluma, CA",2240.525808360445
+1927.4931518113722,1968.9075066339904,1975.09039650568,2238.6846708451135
 Groveland,FL,"Orlando-Kissimmee-Sanford, FL",2237.2632669605973
 Madera,CA,"Madera, CA",2236.802713457163
 Covington,WA,"Seattle-Tacoma-Bellevue, WA",2235.902773615833
@@ -772,14 +773,13 @@ Arlington,MA,"Boston-Cambridge-Newton, MA-NH",2204.821061819249
 Bozeman,MT,"Bozeman, MT",2202.507875656905
 Antioch,CA,"San Francisco-Oakland-Berkeley, CA",2201.987232004367
 Johnstown,OH,"Columbus, OH",2200.0994609373665
-Warrenton,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2200.0
 Valparaiso,FL,"Crestview-Fort Walton Beach-Destin, FL",2200.0
-Ayer,MA,"Boston-Cambridge-Newton, MA-NH",2200.0
 Hershey,PA,"Harrisburg-Carlisle, PA",2200.0
+Ayer,MA,"Boston-Cambridge-Newton, MA-NH",2200.0
 Bunker Hill,WV,"Hagerstown-Martinsburg, MD-WV",2200.0
+Warrenton,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2200.0
 Mc Leansville,NC,"Greensboro-High Point, NC",2199.0
 Sebastian,FL,"Sebastian-Vero Beach, FL",2198.1104353583
-McLean,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2197.358264909868
 Moncks Corner,SC,"Charleston-North Charleston, SC",2196.8348869646206
 Royse City,TX,"Dallas-Fort Worth-Arlington, TX",2196.6393271200886
 Farmington,CT,"Hartford-East Hartford-Middletown, CT",2196.5435921173867
@@ -1068,11 +1068,11 @@ Plymouth Meeting,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2000.615239262
 Seffner,FL,"Tampa-St. Petersburg-Clearwater, FL",2000.4201401768316
 Pendergrass,GA,"Jefferson, GA",2000.3164910716612
 White House,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",2000.2063507050377
-Maurice,LA,"Lafayette, LA",2000.0
 Abita Springs,LA,"New Orleans-Metairie, LA",2000.0
 Smithfield,RI,"Providence-Warwick, RI-MA",2000.0
-Bartlett,IL,"Chicago-Naperville-Elgin, IL-IN-WI",2000.0
+Maurice,LA,"Lafayette, LA",2000.0
 Dumont,NJ,"New York-Newark-Jersey City, NY-NJ-PA",2000.0
+Bartlett,IL,"Chicago-Naperville-Elgin, IL-IN-WI",2000.0
 Fort Lauderdale,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",1999.122435030236
 Weymouth,MA,"Boston-Cambridge-Newton, MA-NH",1996.7367748392985
 Chino Valley,AZ,"Prescott Valley-Prescott, AZ",1996.25
@@ -1140,9 +1140,9 @@ Red Lion,PA,"York-Hanover, PA",1953.410339394161
 Garfield,NJ,"New York-Newark-Jersey City, NY-NJ-PA",1952.9266196328952
 Danbury,CT,"Bridgeport-Stamford-Norwalk, CT",1951.9401116262923
 Gardena,CA,"Los Angeles-Long Beach-Anaheim, CA",1950.248053991212
-Brevard,NC,"Brevard, NC",1950.0
 Superior,MI,"Ann Arbor, MI",1950.0
 Big Lake,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",1950.0
+Brevard,NC,"Brevard, NC",1950.0
 Clackamas,OR,"Portland-Vancouver-Hillsboro, OR-WA",1949.999818864517
 Lincoln City,OR,"Newport, OR",1949.5702236377065
 Passaic,NJ,"New York-Newark-Jersey City, NY-NJ-PA",1949.3889306400072
@@ -1168,10 +1168,11 @@ Mary Esther,FL,"Crestview-Fort Walton Beach-Destin, FL",1938.0324404752319
 Fountain Inn,SC,"Greenville-Anderson, SC",1937.8089536714783
 Palm Beach Gardens,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",1937.5066019594294
 Jacksonville Beach,FL,"Jacksonville, FL",1937.5044079474412
-Homosassa,FL,"Homosassa Springs, FL",1937.5
 Barrington,IL,"Chicago-Naperville-Elgin, IL-IN-WI",1937.5
+Homosassa,FL,"Homosassa Springs, FL",1937.5
 Lilburn,GA,"Atlanta-Sandy Springs-Alpharetta, GA",1936.7321483417018
 Bala-Cynwyd,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1936.4347219056458
+McLean,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",1935.928520895138
 Severn,MD,"Baltimore-Columbia-Towson, MD",1935.4953249808027
 Yorktown,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",1935.3807778309201
 Bear,DE,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1934.4015621717012
@@ -1231,9 +1232,9 @@ Tinley Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",1901.4148232542182
 Windermere,FL,"Orlando-Kissimmee-Sanford, FL",1900.639918326948
 Kingston,NY,"Kingston, NY",1900.3897398399115
 Wheeling,IL,"Chicago-Naperville-Elgin, IL-IN-WI",1900.1678376353527
-Webster Groves,MO,"St. Louis, MO-IL",1900.0
 Saint Albans,VT,"Burlington-South Burlington, VT",1900.0
 Sylva,NC,"Cullowhee, NC",1900.0
+Webster Groves,MO,"St. Louis, MO-IL",1900.0
 Camas,WA,"Portland-Vancouver-Hillsboro, OR-WA",1899.7001492809075
 Wexford,PA,"Pittsburgh, PA",1899.1699415803068
 Ellicott City,MD,"Baltimore-Columbia-Towson, MD",1899.0321753191079
@@ -1423,11 +1424,11 @@ Holly Ridge,NC,"Jacksonville, NC",1801.2904252663018
 Candler,NC,"Asheville, NC",1801.2459299700365
 Forest Hill,TX,"Dallas-Fort Worth-Arlington, TX",1800.9568842394317
 Colton,CA,"Riverside-San Bernardino-Ontario, CA",1800.8255641759802
-Madison Heights,VA,"Lynchburg, VA",1800.0
 Beaufort,NC,"Morehead City, NC",1800.0
-Grosse Pointe Woods,MI,"Detroit-Warren-Dearborn, MI",1800.0
-Pilot Point,TX,"Dallas-Fort Worth-Arlington, TX",1800.0
 Williamstown,NJ,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1800.0
+Grosse Pointe Woods,MI,"Detroit-Warren-Dearborn, MI",1800.0
+Madison Heights,VA,"Lynchburg, VA",1800.0
+Pilot Point,TX,"Dallas-Fort Worth-Arlington, TX",1800.0
 Wallingford,CT,"New Haven-Milford, CT",1799.8546777416545
 Upper Arlington,OH,"Columbus, OH",1799.5107288154827
 Riverside,CA,"Riverside-San Bernardino-Ontario, CA",1799.1321116488941
@@ -1443,10 +1444,10 @@ Doraville,GA,"Atlanta-Sandy Springs-Alpharetta, GA",1796.7074246134605
 Holly Springs,NC,"Raleigh-Cary, NC",1796.245439591357
 Monroe,GA,"Atlanta-Sandy Springs-Alpharetta, GA",1795.6448453892385
 Golden Valley,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",1795.3543274681463
-Pfafftown,NC,"Winston-Salem, NC",1795.0
 Moores Mill,AL,"Huntsville, AL",1795.0
 Deer Park,OH,"Cincinnati, OH-KY-IN",1795.0
 Exeter,CA,"Visalia, CA",1795.0
+Pfafftown,NC,"Winston-Salem, NC",1795.0
 Crossville,TN,"Crossville, TN",1794.673586149115
 Waunakee,WI,"Madison, WI",1794.1229927539332
 Forest Grove,OR,"Portland-Vancouver-Hillsboro, OR-WA",1793.831764096273
@@ -1484,8 +1485,8 @@ Nashua,NH,"Manchester-Nashua, NH",1776.270541124012
 Galloway,NJ,"Atlantic City-Hammonton, NJ",1776.2616589361162
 Bountiful,UT,"Ogden-Clearfield, UT",1775.9303626816115
 Rockmart,GA,"Cedartown, GA",1775.891859732161
-Pinewood,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",1775.0
 Highland Falls,NY,"Poughkeepsie-Newburgh-Middletown, NY",1775.0
+Pinewood,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",1775.0
 Collinsville,OK,"Tulsa, OK",1774.8138737375502
 Hialeah,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",1774.7949204044533
 Pomona,CA,"Los Angeles-Long Beach-Anaheim, CA",1774.023310871378
@@ -1531,12 +1532,12 @@ Schertz,TX,"San Antonio-New Braunfels, TX",1752.4499547145733
 North Miami Beach,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",1751.71150382565
 Silver Spring,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",1750.449845670669
 Oxford,MS,"Oxford, MS",1750.0916171333322
+Seymour,CT,"New Haven-Milford, CT",1750.0
 Elko,NV,"Elko, NV",1750.0
 Valley Park,MO,"St. Louis, MO-IL",1750.0
-Seymour,CT,"New Haven-Milford, CT",1750.0
 Colonial Beach,VA,,1750.0
-Sanford,ME,"Portland-South Portland, ME",1750.0
 Hugo,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",1750.0
+Sanford,ME,"Portland-South Portland, ME",1750.0
 Peachtree City,GA,"Atlanta-Sandy Springs-Alpharetta, GA",1749.9591049064954
 West Sacramento,CA,"Sacramento-Roseville-Folsom, CA",1749.8385255435853
 Gladstone,OR,"Portland-Vancouver-Hillsboro, OR-WA",1749.5833598364518
@@ -1765,8 +1766,8 @@ Willis,TX,"Houston-The Woodlands-Sugar Land, TX",1651.2310996296733
 Cranberry Township,PA,"Pittsburgh, PA",1651.0218802113632
 Suitland-Silver Hill,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",1650.7564209180362
 Brooklyn Park,MD,"Baltimore-Columbia-Towson, MD",1650.6779267706918
-Harrah,OK,"Oklahoma City, OK",1650.0
 Merriam,KS,"Kansas City, MO-KS",1650.0
+Harrah,OK,"Oklahoma City, OK",1650.0
 Post Falls,ID,"Coeur d'Alene, ID",1649.0049088275732
 Abingdon,MD,"Baltimore-Columbia-Towson, MD",1648.9143399363813
 Denver,NC,"Charlotte-Concord-Gastonia, NC-SC",1648.8443732227176
@@ -1897,8 +1898,8 @@ Sixteen Mile Stand,OH,"Cincinnati, OH-KY-IN",1600.5455020072723
 Stroudsburg,PA,"East Stroudsburg, PA",1600.2764780688203
 Ruskin,FL,"Tampa-St. Petersburg-Clearwater, FL",1600.0816422109515
 Crowley,TX,"Dallas-Fort Worth-Arlington, TX",1600.0493118579259
-Plainfield,CT,"Worcester, MA-CT",1600.0
 Easton,MD,"Easton, MD",1600.0
+Plainfield,CT,"Worcester, MA-CT",1600.0
 Dickinson,ND,"Dickinson, ND",1599.625
 Westmont,IL,"Chicago-Naperville-Elgin, IL-IN-WI",1599.073207593601
 State College,PA,"State College, PA",1598.1236379926474
@@ -1912,8 +1913,8 @@ Grants Pass,OR,"Grants Pass, OR",1596.0915380925137
 Lansdale,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1596.0335630411855
 Allendale,MI,"Grand Rapids-Kentwood, MI",1596.0
 Horizon City,TX,"El Paso, TX",1595.7296305134944
-Cullman,AL,"Cullman, AL",1595.0
 Travelers Rest,SC,"Greenville-Anderson, SC",1595.0
+Cullman,AL,"Cullman, AL",1595.0
 Forest,VA,"Lynchburg, VA",1594.36282072923
 Elgin,SC,"Columbia, SC",1594.3363195457528
 Dalton,GA,"Dalton, GA",1593.9633711618173
@@ -2012,8 +2013,8 @@ The Dalles,OR,"The Dalles, OR",1552.9126926323656
 Powder Springs,GA,"Atlanta-Sandy Springs-Alpharetta, GA",1552.092399368201
 Mission,KS,"Kansas City, MO-KS",1550.469458752055
 Hopkins,SC,"Columbia, SC",1550.4137353356966
-Burnet,TX,,1550.0
 Stow,OH,"Akron, OH",1550.0
+Burnet,TX,,1550.0
 Jennings Lodge,OR,"Portland-Vancouver-Hillsboro, OR-WA",1550.0
 District Heights,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",1549.641399725317
 Pullman,WA,"Pullman, WA",1549.2537321543068
@@ -2393,8 +2394,8 @@ Caldwell,ID,"Boise City, ID",1402.228624179048
 Graham,NC,"Burlington, NC",1402.1525733620692
 Bremerton,WA,"Bremerton-Silverdale-Port Orchard, WA",1402.0467884104228
 Joliet,IL,"Chicago-Naperville-Elgin, IL-IN-WI",1401.3332144751305
-Ocean Shores,WA,"Aberdeen, WA",1400.0
 Schiller Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",1400.0
+Ocean Shores,WA,"Aberdeen, WA",1400.0
 Pineville,LA,"Alexandria, LA",1400.0
 Thibodaux,LA,"Houma-Thibodaux, LA",1399.8854814920705
 Hixson,TN,"Chattanooga, TN-GA",1399.511065633022
@@ -2624,10 +2625,10 @@ Crest Hill,IL,"Chicago-Naperville-Elgin, IL-IN-WI",1301.2808608833018
 Tooele,UT,"Salt Lake City, UT",1301.2113450176414
 Rock Hill,MO,"St. Louis, MO-IL",1300.7210569659862
 North Richland Hills,TX,"Dallas-Fort Worth-Arlington, TX",1300.2871623736394
-Iowa Park,TX,"Wichita Falls, TX",1300.0
-Alsip,IL,"Chicago-Naperville-Elgin, IL-IN-WI",1300.0
 Santa Teresa,NM,"Las Cruces, NM",1300.0
 Petal,MS,"Hattiesburg, MS",1300.0
+Alsip,IL,"Chicago-Naperville-Elgin, IL-IN-WI",1300.0
+Iowa Park,TX,"Wichita Falls, TX",1300.0
 Brewer,ME,"Bangor, ME",1300.0
 Lewiston,ME,"Lewiston-Auburn, ME",1299.2270628014364
 Baytown,TX,"Houston-The Woodlands-Sugar Land, TX",1299.1967144882042
@@ -2697,8 +2698,8 @@ Glasgow Village,MO,"St. Louis, MO-IL",1263.4085656875175
 Ozark,MO,"Springfield, MO",1263.385455311532
 Savannah,GA,"Savannah, GA",1263.0896203057905
 Normal,IL,"Bloomington, IL",1262.6483005274167
-Annville,PA,"Lebanon, PA",1262.5
 Ottawa,IL,"Ottawa, IL",1262.5
+Annville,PA,"Lebanon, PA",1262.5
 Pasadena,TX,"Houston-The Woodlands-Sugar Land, TX",1262.4836001583442
 Hopewell,VA,"Richmond, VA",1261.9960841617155
 Greeley,CO,"Greeley, CO",1261.5858165889952
@@ -2722,11 +2723,11 @@ Athens,OH,"Athens, OH",1252.6804387162229
 Wilmington,NC,"Wilmington, NC",1252.0716352083994
 Gulfport,MS,"Gulfport-Biloxi, MS",1251.3905280309762
 Bismarck,ND,"Bismarck, ND",1250.2667758908708
-Watertown,WI,"Beaver Dam, WI",1250.0
-Windsor Heights,IA,"Des Moines-West Des Moines, IA",1250.0
-Lansford,PA,"Allentown-Bethlehem-Easton, PA-NJ",1250.0
-Austintown,OH,"Youngstown-Warren-Boardman, OH-PA",1250.0
 Parchment,MI,"Kalamazoo-Portage, MI",1250.0
+Lansford,PA,"Allentown-Bethlehem-Easton, PA-NJ",1250.0
+Windsor Heights,IA,"Des Moines-West Des Moines, IA",1250.0
+Austintown,OH,"Youngstown-Warren-Boardman, OH-PA",1250.0
+Watertown,WI,"Beaver Dam, WI",1250.0
 Jackson,TN,"Jackson, TN",1249.2579319316935
 Orem,UT,"Provo-Orem, UT",1248.6413725262214
 Millvale,PA,"Pittsburgh, PA",1248.3834359861794
@@ -2820,8 +2821,8 @@ Rocky Mount,NC,"Rocky Mount, NC",1202.2920529773166
 East Point,GA,"Atlanta-Sandy Springs-Alpharetta, GA",1202.0981838772504
 Deridder,LA,"DeRidder, LA",1201.7371149080802
 Moses Lake,WA,"Moses Lake, WA",1201.0903766934182
-Woodruff,SC,"Spartanburg, SC",1200.0
 Trinidad,CO,,1200.0
+Woodruff,SC,"Spartanburg, SC",1200.0
 Madras,OR,,1199.5
 Mount Healthy,OH,"Cincinnati, OH-KY-IN",1199.1762426077705
 Norfolk,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",1198.6782568440842
@@ -3129,8 +3130,8 @@ Monroe,LA,"Monroe, LA",977.8112409049016
 Salina,KS,"Salina, KS",977.7148118054037
 Harrisburg,PA,"Harrisburg-Carlisle, PA",976.5498973283654
 Urbandale,IA,"Des Moines-West Des Moines, IA",975.9329965635129
-Sterling,CO,"Sterling, CO",975.0
 Willows,CA,,975.0
+Sterling,CO,"Sterling, CO",975.0
 Massillon,OH,"Canton-Massillon, OH",974.9887308428908
 Grand Forks,ND,"Grand Forks, ND-MN",973.6517490429335
 Niles,MI,"Niles, MI",973.3782793917079
@@ -3158,8 +3159,8 @@ Warrensburg,MO,"Warrensburg, MO",951.681426177572
 Cedar Rapids,IA,"Cedar Rapids, IA",951.5704632557885
 Kalamazoo,MI,"Kalamazoo-Portage, MI",950.4986877506026
 Cleveland,OH,"Cleveland-Elyria, OH",950.2147725422959
-Washington,IL,"Peoria, IL",950.0
 Brownsville,TN,"Brownsville, TN",950.0
+Washington,IL,"Peoria, IL",950.0
 Richmond,KY,"Richmond-Berea, KY",947.8175727078129
 Mobile,AL,"Mobile, AL",947.5056444454201
 Lake Charles,LA,"Lake Charles, LA",946.2877817217008
@@ -3211,8 +3212,8 @@ North Platte,NE,"North Platte, NE",900.9491153860499
 Charleston,WV,"Charleston, WV",900.705426849656
 Cape Girardeau,MO,"Cape Girardeau, MO-IL",900.2153777904438
 Weatherford,OK,"Weatherford, OK",900.0
-Keene,TX,"Dallas-Fort Worth-Arlington, TX",900.0
 Mandan,ND,"Bismarck, ND",900.0
+Keene,TX,"Dallas-Fort Worth-Arlington, TX",900.0
 Jackson,MS,"Jackson, MS",899.2693404795307
 South Bend,IN,"South Bend-Mishawaka, IN-MI",897.0962622217083
 Alliance,OH,"Canton-Massillon, OH",895.1142790341837
